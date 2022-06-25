@@ -18,4 +18,7 @@ Password: "coffee" (it'll ask for password if harry.py is run)<br>
 
 <br>
 
-Please help, if you can, to achieve the above objective.
+Please help, if you can, to achieve the above objective.<br>
+
+Finally, comments are overly described. So, have fun :)
+
